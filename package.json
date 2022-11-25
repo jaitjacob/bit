@@ -1,0 +1,22 @@
+{
+  "name": "bit",
+  "version": "1.0.0",
+  "description": "This is a Bit similar to the one seen in the movie Tron(1982). You can ask a binary question to it and tap on it for an answer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaitjacob/bit.git"
+  },
+  "keywords": [
+    "tron"
+  ],
+  "author": "jait",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaitjacob/bit/issues"
+  },
+  "homepage": "https://github.com/jaitjacob/bit#readme"
+}
