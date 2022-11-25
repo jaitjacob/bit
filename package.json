@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jaitjacob/bit/issues"
   },
-  "homepage": "https://github.com/jaitjacob/bit#readme"
+  "homepage": "https://github.com/jaitjacob/bit#readme",
+  "dependencies": {
+    "three": "^0.146.0"
+  }
 }
